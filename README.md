@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-06-04 at 12 34 18](https://github.com/mangeshyadav9651/mangeshyadav9651/assets/135499264/dc5435fd-ab16-4686-8456-caa3ca4f211b)
+
 
 
 - 👋 Hi, I’m @mangeshyadav9651
