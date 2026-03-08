@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mangesh%20Yadav&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Data%20Engineer&fontSize=40&fontColor=ffffff" />
 
 # Hi 👋, I'm Mangesh Yadav
 ### Data Engineer | Data Analyst | Python & SQL Developer
