@@ -95,11 +95,9 @@ Power BI • Excel • VS Code • PyCharm • GCP
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mangeshyadav9651/mangeshyadav9651/output/snake.svg" alt="snake animation" />
-</p>
+![snake gif](https://raw.githubusercontent.com/mangeshyadav9651/mangeshyadav9651/output/snake.svg)
 
 ---
 
