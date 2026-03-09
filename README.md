@@ -1,93 +1,104 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Data%20Engineer&fontSize=40&fontColor=ffffff" />
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Mangesh%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-# Hi 👋, I'm Mangesh Yadav
-### Data Engineer | Data Analyst | Python & SQL Developer
+# Hi 👋 I'm Mangesh Yadav
 
----
-
-## 👨‍💻 About Me
-
-🔍 Computer Science Engineering Graduate from **Galgotias University**
-
-📊 Passionate about **Data Engineering, Data Analysis, and Data Automation**
-
-⚙️ Skilled in building **ETL pipelines, data processing workflows, and dashboards**
-
-📈 Interested in transforming raw data into **business insights**
-
-🚀 Currently exploring **Advanced Data Engineering & Cloud Technologies**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Data+Analyst;Python+%7C+SQL+%7C+Power+BI;ETL+Pipeline+Developer;Turning+Data+into+Insights" />
+</p>
 
 ---
 
-## 💼 Professional Experience
+# 👨‍💻 About Me
 
-### 🏢 Data Engineer Intern – Generali Central Life Insurance
-**July 2025 – Jan 2026**
+🎓 B.Tech in **Computer Science Engineering** — Galgotias University  
 
-- Developed **Python-based ETL pipelines** for scalable data ingestion
-- Designed and scheduled **DAG workflows** for automated data pipelines
-- Created and optimized **SQL views and stored procedures**
-- Integrated **REST APIs** for external data ingestion
-- Automated repetitive tasks using **Python scripts**
-- Ensured **data quality, reliability, and availability**
+📊 Passionate about **Data Engineering, Analytics & Automation**
+
+⚙️ Experienced in building **ETL pipelines, data workflows & dashboards**
+
+🚀 Interested in **Data Engineering, AI-driven systems & Cloud technologies**
+
+💡 Love transforming **raw data → insights → business value**
 
 ---
 
-## 🚀 Projects
+# 💼 Professional Experience
+
+### 🏢 Data Engineer Intern  
+**Generali Central Life Insurance**  
+📅 July 2025 – Jan 2026
+
+- Built **Python-based ETL pipelines** for scalable data ingestion
+- Designed **DAG workflows** to orchestrate data pipelines
+- Developed optimized **SQL views and stored procedures**
+- Integrated **REST APIs** for automated data ingestion
+- Automated manual workflows using **Python scripts**
+- Ensured **data quality and availability for business operations**
+
+---
+
+# 🚀 Projects
 
 ### 🚗 Automated Vehicle Parking System
 
-- Developed a **smart parking management system**
-- Integrated **RFID, ultrasonic sensors, and image recognition**
-- Enabled **real-time monitoring of parking slots**
-- Built a **user interface for parking booking and management**
+- Developed **sensor-based smart parking solution**
+- Implemented **RFID & image recognition for slot detection**
+- Enabled **real-time parking slot monitoring**
+- Built a **user interface for booking and management**
 
 ### 🤖 AI-based Attendance System
 
-- Developed **facial recognition attendance system**
-- Used **Python, OpenCV, and Face Recognition libraries**
-- Implemented **PCA algorithm for accurate detection**
+- Built **facial recognition attendance system**
+- Used **Python, OpenCV & Face Recognition library**
+- Implemented **PCA algorithm for accurate face detection**
 - Automated attendance tracking system
 
 ---
 
-## ⚙️ Technologies & Tools
+# ⚙️ Tech Stack
 
 ### Programming
-Python | SQL | HTML
+<p>
+<img src="https://skillicons.dev/icons?i=python,html" />
+</p>
 
 ### Data & Analytics
-Data Analysis | ETL Pipelines | Data Cleaning | Data Visualization | Business Intelligence
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### Tools & Platforms
-Power BI | Excel | GCP | PyCharm | VS Code
+Python • SQL • Data Analysis • ETL Pipelines • Data Cleaning • Data Visualization
 
-### Databases
-MySQL
-
----
-
-## 🛠️ Technical Skills
-
-**Data Engineering**
-- ETL Pipeline Development
-- Data Processing Automation
-- API Data Integration
-- Data Pipeline Orchestration
-
-**Data Analytics**
-- Data Cleaning
-- Data Visualization
-- Dashboard Development
-- SQL Data Analysis
+### Tools
+Power BI • Excel • VS Code • PyCharm • GCP
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Mangesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangeshyadav9651&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mangeshyadav9651&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=mangeshyadav9651&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangeshyadav9651&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mangeshyadav9651&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+```mermaid
+graph LR;
 
 ---
 
