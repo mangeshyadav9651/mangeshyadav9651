@@ -97,8 +97,9 @@ Power BI • Excel • VS Code • PyCharm • GCP
 
 # 🐍 Contribution Snake
 
-```mermaid
-graph LR;
+<p align="center">
+<img src="https://raw.githubusercontent.com/mangeshyadav9651/mangeshyadav9651/output/snake.svg" alt="snake animation" />
+</p>
 
 ---
 
