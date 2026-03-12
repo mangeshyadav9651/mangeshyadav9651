@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Mangesh%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Data%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 # Hi 👋 I'm Mangesh Yadav
 
